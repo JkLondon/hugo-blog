@@ -5,3 +5,5 @@ title = 'Anki'
 +++
 
 # Anki
+
+![anki stats](img.png)
