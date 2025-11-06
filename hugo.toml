@@ -1,0 +1,5 @@
+baseURL = 'https://blog.ilyamikheev.com/'
+languageCode = 'ru-ru'
+title = 'Всякие пасты'
+theme = 'ananke'
+publishDir = "/home/ilyam/web/blog"
